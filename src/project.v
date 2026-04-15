@@ -19,12 +19,15 @@ module tt_um_NE567Mixer28 (
     input  wire       clk,      // clock
     input  wire       rst_n     // reset_n - low to reset
 );
-    OFC OFC(
+    ecgF ecgF(
 	    .VDD(VDPWR),
 	    .VSS(VGND),
-	    .OUT(ua[0]),
-	    .INm(ua[1]),
-	    .INp(ua[2])
+	    .OUTDRL(ua[0]),
+	    .ref(ua[1]),
+	    .Vref(ua[2]),
+	    .OUT(ua[3]),
+	    .INm(ua[4]),
+	    .INp(ua[5])
     );
 
     // ties for the output enables
