@@ -505,5 +505,5 @@ port 51 nsew power bidirectional
 flabel metal4 800 1000 1200 44152 1 FreeSans 1600 0 0 0 VGND
 port 52 nsew ground bidirectional
 << properties >>
-string FIXED_BBOX 0 0 32200 45152
+string FIXED_BBOX 0 0 206080 45152
 << end >>
