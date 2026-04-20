@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1774618900
+timestamp 1776701417
 << viali >>
 rect 54720 8692 54910 8768
 rect 65402 3424 65574 3468
@@ -123,7 +123,7 @@ rect -3471 -901 -3461 -896
 rect -4212 -1246 -3461 -901
 rect -3111 -1246 -3101 -896
 rect -4212 -1271 -3101 -1246
-rect -4212 -4258 -3842 -1271
+rect -4212 -4028 -3842 -1271
 rect -10 -2281 756 706
 rect 57259 704 57461 6657
 rect 65278 6348 65756 8668
@@ -220,12 +220,12 @@ rect -3918 -4476 -3912 -4346
 rect -3846 -4476 -2475 -4346
 rect -3918 -4486 -2475 -4476
 rect -3918 -4488 -3840 -4486
-rect -4238 -4995 -3868 -4548
+rect -4238 -4995 -3868 -4706
 rect -1131 -4813 3285 -4443
 rect -1131 -4995 -761 -4813
 rect -4238 -5365 -727 -4995
 rect 2915 -5315 3285 -4813
-rect -4238 -5908 -3868 -5365
+rect -4238 -5786 -3868 -5365
 rect 2915 -5685 4067 -5315
 rect -4228 -6044 -4164 -6036
 rect -4638 -6048 -4164 -6044
@@ -237,7 +237,7 @@ rect -40 -6294 -30 -5730
 rect 774 -6294 784 -5730
 rect -5667 -7903 -5657 -7317
 rect -5071 -7366 -5061 -7317
-rect -4259 -7366 -3877 -6305
+rect -4259 -7366 -3877 -6434
 rect -5071 -7748 -3850 -7366
 rect -5071 -7903 -5061 -7748
 rect -10 -8795 756 -6294
@@ -1335,10 +1335,10 @@ use sky130_fd_pr__res_xhigh_po_0p35_4GRPKS  XR2
 timestamp 1774375950
 transform 1 0 21649 0 1 -21578
 box -201 -1682 201 1682
-use sky130_fd_pr__res_high_po_0p35_NL498X  XR3
-timestamp 1774375950
-transform 1 0 -4037 0 1 -4414
-box -201 -642 201 642
+use sky130_fd_pr__res_high_po_0p35_ESHESN  XR3
+timestamp 1776701417
+transform 1 0 -4033 0 1 -4320
+box -201 -652 201 652
 use sky130_fd_pr__res_xhigh_po_0p35_X42PYB  XR4
 timestamp 1774371231
 transform 0 1 54802 -1 0 8881
@@ -1355,10 +1355,10 @@ use sky130_fd_pr__res_xhigh_po_0p35_4GRPKS  XR12
 timestamp 1774375950
 transform 0 1 84638 -1 0 -1553
 box -201 -1682 201 1682
-use sky130_fd_pr__res_high_po_0p35_NL498X  XR15
-timestamp 1774375950
-transform 1 0 -4043 0 1 -6108
-box -201 -642 201 642
+use sky130_fd_pr__res_high_po_0p35_ESHESN  XR15
+timestamp 1776701417
+transform 1 0 -4053 0 1 -6154
+box -201 -652 201 652
 use sky130_fd_pr__res_xhigh_po_0p35_4GRPKS  XR16
 timestamp 1774375950
 transform 0 1 137710 -1 0 -3905

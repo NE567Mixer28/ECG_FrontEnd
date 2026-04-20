@@ -548,13 +548,13 @@ lab=VSS}
 C {devices/lab_pin.sym} -1360 -810 0 0 {name=p48 sig_type=std_logic lab=Vcm}
 C {devices/lab_pin.sym} -1250 -70 0 0 {name=p52 sig_type=std_logic lab=Vcm}
 C {sky130_fd_pr/res_high_po_0p35.sym} -1270 -860 1 0 {name=R3
-L=0.6
+L=0.7
 model=res_high_po_0p35
 spiceprefix=X
 mult=1}
 C {devices/lab_pin.sym} -1270 -900 0 0 {name=p63 sig_type=std_logic lab=VSS}
 C {sky130_fd_pr/res_high_po_0p35.sym} -1270 -760 1 0 {name=R15
-L=0.6
+L=0.7
 model=res_high_po_0p35
 spiceprefix=X
 mult=1}

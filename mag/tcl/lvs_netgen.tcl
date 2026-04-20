@@ -9,7 +9,7 @@ readnet verilog ../src/project.v $source
 # readnet verilog ../verilog/gl/your_design.v $source
 
 # add any spice files of your analog blocks:
-#readnet spice ../xschem/simulation/$project.spice $source
+#readnet spice ../xschem/simulation/ecgF.spice $source
 
 #usare questa sotto se non funziona il make clean lvs del toplevel
 readnet verilog ../src/project.v $source 
